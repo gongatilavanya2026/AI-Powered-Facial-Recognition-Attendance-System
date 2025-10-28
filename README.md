@@ -46,3 +46,19 @@ Optional: Email/SMS APIs ✉️📱
 ✅ Ensures accuracy & prevents fraudulent attendance
 ✅ Provides real-time data & analytics 📈
 ✅ Scalable for institutions of any size 🌍
+
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/Facial-Recognition-Attendance-System.git
+cd Facial-Recognition-Attendance-System
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Server
+python app.py
+
+4️⃣ Access in Browser
+Open:
+http://127.0.0.1:5000/
+
