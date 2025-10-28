@@ -49,8 +49,8 @@ Optional: Email/SMS APIs ✉️📱
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Facial-Recognition-Attendance-System.git
-cd Facial-Recognition-Attendance-System
+git clone https://github.com/gongatilavanya2026/AI-Powered-Facial-Recognition-Attendance-System.git
+cd AI-Powered-Facial-Recognition-Attendance-System
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
