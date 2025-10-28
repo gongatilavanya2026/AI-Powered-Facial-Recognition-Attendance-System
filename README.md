@@ -50,15 +50,19 @@ Optional: Email/SMS APIs ✉️📱
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/gongatilavanya2026/AI-Powered-Facial-Recognition-Attendance-System.git
+
 cd AI-Powered-Facial-Recognition-Attendance-System
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the Server
+
 python app.py
 
 4️⃣ Access in Browser
+
 Open:
 http://127.0.0.1:5000/
 
