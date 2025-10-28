@@ -48,6 +48,7 @@ Optional: Email/SMS APIs ✉️📱
 ✅ Scalable for institutions of any size 🌍
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/gongatilavanya2026/AI-Powered-Facial-Recognition-Attendance-System.git
 
